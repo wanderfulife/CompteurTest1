@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "802885438439",
+    "firebase_url": "https://alyce-controler-v1.firebaseio.com",
+    "project_id": "alyce-controler-v1",
+    "storage_bucket": "alyce-controler-v1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:802885438439:android:df15dd5bfba7f1e75acb42",
+        "android_client_info": {
+          "package_name": "com.jimmy.alyce_controler_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "802885438439-i85d89deeeegdc699r1t22050hheu370.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZhaYkj85Hocseukr93C_BUlXT0edGNqE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "802885438439-i85d89deeeegdc699r1t22050hheu370.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
